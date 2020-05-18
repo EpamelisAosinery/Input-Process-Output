@@ -2,6 +2,7 @@ venv
 .vscode
 Home works
 .idea
+
 exam2-1.py
 exam2-extra1.py
 exam2-2.py
@@ -14,5 +15,5 @@ exam4-1.py
 exam4-2.py
 exam4-3.py
 Snake_Game.py
-test.py
+tets.py
 weather.py
