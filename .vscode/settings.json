@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\hoaho\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "Aosinery",
+        "Desr",
+        "Epamelis",
+        "strftime"
+    ],
+    
+}
