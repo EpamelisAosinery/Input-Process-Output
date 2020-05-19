@@ -9,3 +9,7 @@ Welcome to the Epamelis Empire and here is a little bit about myself. When I was
 3. Decision Statements
 4. Looping (Repetition) Statements
 5. Input Validation and Arrays (Lists)
+
+## _Work References_
+
+-[w3schools.com](https://www.w3schools.com/python/)
