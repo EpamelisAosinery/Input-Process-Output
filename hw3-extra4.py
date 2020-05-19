@@ -1,7 +1,7 @@
 ############################
 # Author:   Epamelis Aosinery
 # Date:     3/27/2020
-# Desr:     Homework 3.ec4
+# Desr:     Homework 3.extra4
 ############################
 
 while True:

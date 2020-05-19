@@ -1,7 +1,7 @@
 ############################
-# Author:   Epamelis Aosinery
-# Date:     1/17/2020
-# Desr:     Homework 1-3
+# Author:    Epamelis Aosinery
+# Date:        1/17/2020
+# Desr:         Homework 1-3
 ############################
 
 radius = float(input("Enter the radius of the circle? "))

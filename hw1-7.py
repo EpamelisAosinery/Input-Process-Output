@@ -1,7 +1,7 @@
 #################################
 # Author:   Epamelis Aosinery
 # Date:     1/17/2020
-# Desr:     Homework 1-20-2020
+# Desr:     Homework 1.7
 #################################
 
 sqft = float(input("Please enter the amount of land you have in square feet: "))

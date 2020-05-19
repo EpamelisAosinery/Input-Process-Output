@@ -1,7 +1,7 @@
 ############################
-# Author:   Hoa Ho
-# Date:     1/17/2020
-# Desr:     Homework 1-2
+# Author:    Epamelis Aosinery
+# Date:        1/17/2020
+# Desr:         Homework 1-2
 ############################
 
 owed = float(input("Please enter amount owed: "))

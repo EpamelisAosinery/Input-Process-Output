@@ -1,7 +1,7 @@
 ############################
 # Author:   Epamelis Aosinery
 # Date:     1/17/2020
-# Desr:     Homework 1-8
+# Desr:     Homework 1-8 Advance
 ############################
 
 watch1 = 659

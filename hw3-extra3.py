@@ -1,7 +1,7 @@
 ############################
 # Author:   Epamelis Aosinery
 # Date:     3/7/2020
-# Desr:     Homework 3.ec3
+# Desr:     Homework 3.extra3
 ############################
 
 def caldollars():
